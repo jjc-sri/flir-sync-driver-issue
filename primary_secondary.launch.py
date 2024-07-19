@@ -67,10 +67,10 @@ shared_cam_parameters = {
     'chunk_enable_gain': True,
     'chunk_selector_timestamp': 'Timestamp',
     'chunk_enable_timestamp': True,
+    "image_width": 5320,
+    "image_height": 3032,
     # "image_width": 1280,
     # "image_height": 720,
-    # "image_width": 1920,
-    # "image_height": 1080,
 }
 
 # Parameters for the primary camera
